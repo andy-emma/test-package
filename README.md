@@ -11,5 +11,7 @@
 
 > duckey | Nova dev#3049 //package idea && Docs manager
 
+> Emmaa | Emma#8675 // Dev + tester
+
 ## Docs
 * [Docs for this package(not complete)](https://docs.pirles.tk)
